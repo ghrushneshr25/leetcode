@@ -6,9 +6,7 @@ algorithm: "Iterate once through the array while storing visited values in a has
 complexity:
     time: O(n)
     space: O(n)
-notes: |-
-    Basic question
-    Classic helmen ford problem
+notes: Just a random bulshit i am typing
 @endleetcode
 */
 
