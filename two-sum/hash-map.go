@@ -1,4 +1,4 @@
-
+/*
 @leetcode
 
 name: Hash Map
@@ -8,7 +8,7 @@ complexity:
     space: O(n)
 notes: Classic single-pass hash map solution.
 @endleetcode
-
+*/
 
 func twoSum(nums []int, target int) []int {
 	seen := map[int]int{}
