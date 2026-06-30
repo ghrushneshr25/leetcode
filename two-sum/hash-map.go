@@ -6,7 +6,9 @@ algorithm: Iterate once through the array while storing visited values in a hash
 complexity:
     time: O(n)
     space: O(n)
-notes: This is sample notes
+notes: |-
+    Basic question
+    Classic helmen ford problem
 @endleetcode
 */
 
