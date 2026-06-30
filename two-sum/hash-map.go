@@ -6,7 +6,7 @@ algorithm: Iterate once through the array while storing visited values in a hash
 complexity:
     time: O(n)
     space: O(n)
-notes: Classic single-pass hash map solution.
+notes: This is sample notes
 @endleetcode
 */
 
