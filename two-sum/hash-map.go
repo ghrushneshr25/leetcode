@@ -2,7 +2,7 @@
 @leetcode
 
 name: Hash Map
-algorithm: Iterate once through the array while storing visited values in a hash map. For each number, check if its complement exists before inserting the current value.
+algorithm: "Iterate once through the array while storing visited values in a hash map. \nFor each number, check if its complement exists before inserting the current value."
 complexity:
     time: O(n)
     space: O(n)
