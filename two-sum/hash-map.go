@@ -21,4 +21,3 @@ func twoSum(nums []int, target int) []int {
 		seen[num] = i
 	}
 	return nil
-}
